@@ -7,7 +7,6 @@ I have become a Javascript full stack web developer in 2018. Before I used to wo
 <br />
 I have an Information Systems degree, but I am mostly self-taught when it regards to web development. <br />
 I am able to unify both my formal education and my self-taught developer experience to make people's life easy.
-
 <br />
 
 ## Some Curiosities About Me
@@ -19,8 +18,7 @@ I am able to unify both my formal education and my self-taught developer experie
 1. ⛰️ I worked as a mountain guide in Torres del Paine - Chile in 2018
 1. 🎒 I am also a professional backpacker and hitchhicker
 1. ⚽ Funny fact: I play football hundred times better than you 🤣 😂
-
-<br />
+   <br />
 
 ## Reach me at
 
@@ -28,7 +26,6 @@ I am able to unify both my formal education and my self-taught developer experie
 [<img align="left" alt="viniciuscerqueirabonifacio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kako77sub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kako77sub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br />
 
 ## Languages and Tools
@@ -45,8 +42,6 @@ I am able to unify both my formal education and my self-taught developer experie
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 <br />
 
 <details>
@@ -55,8 +50,6 @@ I am able to unify both my formal education and my self-taught developer experie
   <img align="left" alt="Vinicius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinicius77&show_icons=true&hide_border=true" />
 
 </details>
-
-<br />
 <br />
 
 ## Latest blog posts
