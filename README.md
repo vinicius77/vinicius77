@@ -10,25 +10,28 @@ I am able to unify both my formal education and my self-taught developer experie
 
 <br />
 
-## Some Curiosities about me:
+## Some Curiosities About Me
 
 1. 🌱 I’m able to learn everything
 1. ❤️ My favorite stack is MERN
-1. 🥅 Goals: Contribute to open source projects
-1. 🏄 Hobbies: I can skateboarding and surfing
+1. 🥅 Goals: Contributing more to open source projects
+1. 🏄 Hobbies: Skateboarding, surfing, drawing and making/having tattoos
+1. ⛰️ I worked as a mountain guide in Torres del Paine - Chile in 2018
+1. 🎒 I am also a professional backpacker and hitchhicker
 1. ⚽ Funny fact: I play football hundred times better than you 🤣 😂
 
 <br />
 
-## Reach me at:
+## Reach me at
 
+[<img align="left" alt="vinifolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="viniciuscerqueirabonifacio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kako77sub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kako77sub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -52,6 +55,17 @@ I am able to unify both my formal education and my self-taught developer experie
   <img align="left" alt="Vinicius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinicius77&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
+<br />
+
+## Latest blog posts
+
+- [React + Typescript === "headache"](https://dev.to/vinicius77/react-typescript-headache-424g)
+- [Building a restful API using Deno (Part2)](https://dev.to/vinicius77/building-a-restful-api-using-deno-part2-5eo2)
+- [Building a restful API using Deno (Part1)](https://dev.to/vinicius77/building-a-restful-api-using-deno-part1-pc1)
+- [Building a restful API using Deno (Intro)](https://dev.to/vinicius77/building-a-restful-api-using-deno-intro-1o96)
+- [Deno is not here to replace Node](https://dev.to/vinicius77/deno-is-not-here-to-replace-node-nmd)
 
 [website]: https://vinicius-portfolio.herokuapp.com/
 [instagram]: https://instagram.com/kako77sub
