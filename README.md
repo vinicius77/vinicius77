@@ -52,6 +52,7 @@ I am able to unify both my formal education and my self-taught developer experie
 
 ## Latest blog posts
 
+- [Next.js Trash Course (Part 1)](https://dev.to/vinicius77/next-js-trash-course-part-1-3-2dlb)
 - [React + Typescript === "headache"](https://dev.to/vinicius77/react-typescript-headache-424g)
 - [Building a restful API using Deno (Part2)](https://dev.to/vinicius77/building-a-restful-api-using-deno-part2-5eo2)
 - [Building a restful API using Deno (Part1)](https://dev.to/vinicius77/building-a-restful-api-using-deno-part1-pc1)
