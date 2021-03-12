@@ -52,6 +52,9 @@ I am able to unify both my formal education and my self-taught developer experie
 
 ## Latest blog posts
 
+- [Regex - underrated or overHATED? Part 1/3](https://dev.to/vinicius77/regexp-underrated-or-overhated-part-1-3-2fg7)
+- [Next.js Trash Course (Part 3)](https://dev.to/vinicius77/next-js-trash-course-part-3-3-3igc)
+- [Next.js Trash Course (Part 2)](https://dev.to/vinicius77/next-js-trash-course-part-2-3-3115)
 - [Next.js Trash Course (Part 1)](https://dev.to/vinicius77/next-js-trash-course-part-1-3-2dlb)
 - [React + Typescript === "headache"](https://dev.to/vinicius77/react-typescript-headache-424g)
 - [Building a restful API using Deno (Part2)](https://dev.to/vinicius77/building-a-restful-api-using-deno-part2-5eo2)
