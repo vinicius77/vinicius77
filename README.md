@@ -52,6 +52,7 @@ I am able to unify both my formal education and my self-taught developer experie
 
 ## Latest blog posts
 
+- [Regex - underrated or overHATED? Part 2/3](https://dev.to/vinicius77/regex-underrated-or-overhated-part-2-3-3ggi)
 - [Regex - underrated or overHATED? Part 1/3](https://dev.to/vinicius77/regexp-underrated-or-overhated-part-1-3-2fg7)
 - [Next.js Trash Course (Part 3)](https://dev.to/vinicius77/next-js-trash-course-part-3-3-3igc)
 - [Next.js Trash Course (Part 2)](https://dev.to/vinicius77/next-js-trash-course-part-2-3-3115)
