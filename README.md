@@ -52,6 +52,7 @@ I am able to unify both my formal education and my self-taught developer experie
 
 ## Latest blog posts
 
+- [Gatsby Trash Course (Part 1)](https://dev.to/vinicius77/gatsby-trash-course-1-3-5ca5)
 - [Regex - underrated or overHATED? Part 3/3](https://dev.to/vinicius77/regex-underrated-or-overhated-part-3-3-1hdi)
 - [Regex - underrated or overHATED? Part 2/3](https://dev.to/vinicius77/regex-underrated-or-overhated-part-2-3-3ggi)
 - [Regex - underrated or overHATED? Part 1/3](https://dev.to/vinicius77/regexp-underrated-or-overhated-part-1-3-2fg7)
