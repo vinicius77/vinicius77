@@ -18,6 +18,7 @@ I am able to unify both my formal education and my self-taught developer experie
 1. ⛰️ I worked as a mountain guide in Torres del Paine - Chile in 2018
 1. 🎒 I am also a professional backpacker and hitchhicker
 1. ⚽ Funny fact: I play football hundred times better than you 🤣 😂
+1. 🤔 According to [16Personalities](https://www.16personalities.com/), I am an Advocate Personality, along with Martin Luther King, Nelson Mandela, Mother Teresa and Marie Kondo!
    <br />
 
 ## Reach me at
