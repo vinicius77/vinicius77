@@ -1,13 +1,11 @@
 # Hi there, I am Vinicius - aka [Kako][website] 💻
 
 ## Get to know a little bit about me:
+A JavaScript Team Lead with a passion for experimenting with new tech before bringing it to production. When I'm not coding, you can find me on the football pitch or tinkering with my latest fixer-upper project.
 
-I have become a Javascript full stack web developer in 2018. Before I used to work in the backend using Ruby On Rails.
-<img alt="Ruby" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<br />
-I have an Information Systems degree, but I am mostly self-taught when it regards to web development. <br />
-I am able to unify both my formal education and my self-taught developer experience to make people's life easy.
-<br />
+In my free time, I'm currently learning Go and looking for new challenges. My tech stack is pretty versatile, with expertise in React, Redux, Redux Sagas, and Redux Form. I'm also familiar with Firebase and have acquired a Google Cloud Platform Digital Leader certification in 2024.
+
+If you're looking for someone to chat about coding or football, or just want to collaborate on a project, let's connect!
 
 ## Some Curiosities About Me
 
