@@ -27,6 +27,7 @@ I am able to unify both my formal education and my self-taught developer experie
 [<img align="left" alt="viniciuscerqueirabonifacio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kako77sub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kako77sub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kako77sub | Gitlab" width="22px" src="https://external-content.duckduckgo.com/ip3/about.gitlab.com.ico"/>][gitlab]
 <br />
 
 ## Languages and Tools
@@ -47,7 +48,7 @@ I am able to unify both my formal education and my self-taught developer experie
 <br />
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Vinicius's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinicius77&show_icons=true&hide_border=true" />
+  <img align="left" alt="Vinicius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinicius77&show_icons=true&hide_border=true&show_icons=true&hide_border=true" />
 </details>
 <br />
 
@@ -72,3 +73,4 @@ I am able to unify both my formal education and my self-taught developer experie
 [instagram]: https://instagram.com/kako77sub
 [linkedin]: https://www.linkedin.com/in/viniciuscerqueirabonifacio/
 [twitter]: https://www.twitter.com/kako77sub
+[gitlab]: https://gitlab.com/vinicius771
